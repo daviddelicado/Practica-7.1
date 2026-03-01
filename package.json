@@ -3,7 +3,7 @@
   "license": "MIT",
   "version": "0.0.1",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.22.1",
     "underscore": "^1.12.1"
   },
   "scripts": {
@@ -32,5 +32,6 @@
   "bugs": {
     "url": "https://github.com/mcgomezcano/practica7.1/issues"
   },
-  "homepage": "https://github.com/mcgomezcano/practica7.1#readme"
+  "homepage": "https://github.com/mcgomezcano/practica7.1#readme",
+  "type": "commonjs"
 }
